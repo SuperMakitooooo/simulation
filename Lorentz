@@ -1,0 +1,23 @@
+import numpy as np
+
+
+p_init = np.array([[1,0],[0,0]])
+#[x,y] = [1,0]
+v_move = np.array([[1,0],[1,0]])
+v_state = np.zeros((2,2))
+
+p = np.array(p_init)
+v = np.array(v_state)
+
+while True:
+	mutual
+
+interval = np.linspace(0,100,10000)
+an -a(n-1) = n
+
+
+t = 0　の時、y= 0
+dy/dt = 0
+dt = 0.001
+
+y(t+ dt) = 
